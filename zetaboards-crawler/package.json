@@ -1,0 +1,10 @@
+{
+  "name": "zetaboards-crawler",
+  "version": "0.0.0",
+  "description": "zetaboards-crawler",
+  "main": "app.js",
+  "author": {
+    "name": "krzys",
+    "email": ""
+  }
+}
